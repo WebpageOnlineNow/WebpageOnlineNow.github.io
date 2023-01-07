@@ -16,6 +16,11 @@ h1 {
 h2 {
   background: #1fde55; 
   display: inline-block;
+  float: left;
   padding: 10px 10px;
   margin: 5px;
+}
+section{ 
+  display: inline-block;
+  float: left;
 }
