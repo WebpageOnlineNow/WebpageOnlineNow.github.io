@@ -18,7 +18,5 @@ h2 {
   padding: 10px 10px;
   margin: 5px;
 }
-section{ 
-  display: inline-block;
-  float: left;
-}
+img{
+  display: inline-block;}
