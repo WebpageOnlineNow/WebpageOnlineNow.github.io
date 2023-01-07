@@ -19,4 +19,11 @@ h2 {
   margin: 5px;
 }
 img{
-  display: inline-block;}
+  display: block;}
+
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
