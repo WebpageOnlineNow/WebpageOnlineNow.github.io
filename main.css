@@ -10,7 +10,7 @@ header{
 }
 
 h1 {
-  display: block;
+  display: inline-block;
   text-aligh: center;
 }
 
@@ -24,4 +24,5 @@ h2 {
   
 }
 img{
-  display: inline;}
+  display: inline-block;
+margin: 10px;}
