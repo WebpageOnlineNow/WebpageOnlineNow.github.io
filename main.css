@@ -19,7 +19,9 @@ h2 {
   padding: 10px 10px;
   margin: 5px;
   clear: both;
-  display: inline;
+  display: block;
+  text-align: left;
+  
 }
 img{
   display: inline;}
